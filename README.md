@@ -5,6 +5,8 @@ https://www.youtube.com/watch?v=sSAWMr_-Co4
 
 # AWS 
 Setup environment.
+## Test api.
+http://13.54.197.221:4040/
 
 ## Install Docker AWS : TIME 8:23
 >sudo apt-get update
