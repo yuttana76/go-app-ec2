@@ -9,7 +9,7 @@ import (
 )
 
 func HelloHandler(w http.ResponseWriter, r *http.Request) {
-	message := models.Message{Text: "Hello from GoLang API! BOM ONE DEV."}
+	message := models.Message{Text: "Hello from GoLang API! BOM ONE DEV X2."}
 	encodeJSON(w, message)
 }
 
